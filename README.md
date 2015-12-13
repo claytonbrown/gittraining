@@ -1,1 +1,1 @@
-# gittraining
+# gittraining is shit
